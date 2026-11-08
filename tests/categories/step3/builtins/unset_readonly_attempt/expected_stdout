@@ -1,0 +1,2 @@
+bash: line 3: unset: VAR: cannot unset: readonly variable
+test

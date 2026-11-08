@@ -1,0 +1,16 @@
+list {
+  if {
+    condition:
+      list {
+        command "false"
+      }
+    then:
+      list {
+        command "echo" "a"
+      }
+    else:
+      list {
+        command "echo" "b"
+      }
+  }
+}

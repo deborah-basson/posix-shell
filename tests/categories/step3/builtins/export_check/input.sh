@@ -1,0 +1,1 @@
+export TESTVAR=testvalue; echo $TESTVAR

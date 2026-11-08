@@ -1,0 +1,1 @@
+X=VAR; VAR=value; echo ${!X} 2>/dev/null || echo $VAR

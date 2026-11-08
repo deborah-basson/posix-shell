@@ -1,0 +1,2 @@
+bash: line 3: syntax error near unexpected token `then'
+bash: line 3: `if true; then echo start if false; then echo never elif true; then echo middle fi echo end fi'

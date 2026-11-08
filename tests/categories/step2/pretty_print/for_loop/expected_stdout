@@ -1,0 +1,7 @@
+list {
+  for x in "a" "b" {
+    list {
+      command "echo" "$x"
+    }
+  }
+}

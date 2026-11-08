@@ -1,0 +1,1 @@
+VAR=test; unset VAR; echo $VAR

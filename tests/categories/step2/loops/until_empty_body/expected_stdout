@@ -1,0 +1,2 @@
+bash: line 3: syntax error near unexpected token `;'
+bash: line 3: `until true; do ; done; echo ok'

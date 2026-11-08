@@ -1,0 +1,4 @@
+list {
+  command "echo" "foo"
+  command "echo" "bar"
+}

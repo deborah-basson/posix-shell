@@ -1,0 +1,1 @@
+VAR=outer; (VAR=inner; echo $VAR); echo $VAR

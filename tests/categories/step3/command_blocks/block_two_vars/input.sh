@@ -1,0 +1,3 @@
+#!/bin/bash
+# Test: block two vars
+A=1; { A=2; B=3; }; echo $A$B

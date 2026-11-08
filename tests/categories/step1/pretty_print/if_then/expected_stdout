@@ -1,0 +1,12 @@
+list {
+  if {
+    condition:
+      list {
+        command "true"
+      }
+    then:
+      list {
+        command "echo" "ok"
+      }
+  }
+}

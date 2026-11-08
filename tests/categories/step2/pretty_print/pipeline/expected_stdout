@@ -1,0 +1,6 @@
+list {
+  pipeline {
+    command "echo" "foo"
+    command "cat"
+  }
+}

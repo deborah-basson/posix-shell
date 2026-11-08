@@ -1,0 +1,5 @@
+list {
+  redir [ >/tmp/posix-shell_pp_out ] {
+    command "echo" "foo"
+  }
+}

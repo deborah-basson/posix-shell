@@ -1,0 +1,7 @@
+list {
+  brace_group {
+    list {
+      command "echo" "block"
+    }
+  }
+}

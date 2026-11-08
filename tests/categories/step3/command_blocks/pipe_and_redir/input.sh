@@ -1,0 +1,1 @@
+echo test | cat > /tmp/test_posix-shell; cat /tmp/test_posix-shell; rm /tmp/test_posix-shell

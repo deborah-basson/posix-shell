@@ -1,0 +1,1 @@
+echo test | cat > /tmp/pipe_posix-shell; cat /tmp/pipe_posix-shell; rm /tmp/pipe_posix-shell

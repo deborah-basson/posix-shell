@@ -1,0 +1,9 @@
+list {
+  function foo {
+    command_block {
+      list {
+        command "echo" "hi"
+      }
+    }
+  }
+}

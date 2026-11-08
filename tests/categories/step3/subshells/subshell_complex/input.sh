@@ -1,0 +1,1 @@
+(VAR=inner; echo $VAR; (echo nested))

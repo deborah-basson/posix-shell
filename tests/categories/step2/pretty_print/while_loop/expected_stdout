@@ -1,0 +1,12 @@
+list {
+  while {
+    condition:
+      list {
+        command "false"
+      }
+    body:
+      list {
+        command "echo" "loop"
+      }
+  }
+}

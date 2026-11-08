@@ -1,0 +1,2 @@
+bash: line 3: syntax error near unexpected token `newline'
+bash: line 3: `echo <test>'

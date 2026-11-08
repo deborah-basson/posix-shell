@@ -1,0 +1,1 @@
+bash: line 3: unset: cannot simultaneously unset a function and a variable

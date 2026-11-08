@@ -1,0 +1,7 @@
+list {
+  subshell (
+    list {
+      command "echo" "sub"
+    }
+  )
+}

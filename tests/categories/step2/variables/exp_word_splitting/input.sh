@@ -1,0 +1,1 @@
+IFS=:; VAR=a:b:c; echo $VAR

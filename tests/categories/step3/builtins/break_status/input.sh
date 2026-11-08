@@ -1,0 +1,3 @@
+#!/bin/bash
+# Test: break status
+for i in 1 2 3; do if [ $i -eq 2 ]; then break; fi; done; echo $?

@@ -1,0 +1,1 @@
+echo "double 'single' double"

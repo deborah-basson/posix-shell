@@ -1,0 +1,1 @@
+VAR=; echo x${VAR}x

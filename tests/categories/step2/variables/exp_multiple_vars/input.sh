@@ -1,0 +1,1 @@
+A=hello B=world; echo $A $B

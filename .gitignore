@@ -1,0 +1,50 @@
+# Fichiers générés par autotools
+Makefile
+Makefile.in
+stamp-h1
+/configure
+/config.log
+/config.status
+/aclocal.m4
+/autom4te.cache/
+/build-aux/
+/m4/
+.clang-format
+config.h
+
+# Fichiers de compilation
+*.o
+*.a
+*.so
+*.lo
+*.la
+.deps/
+.libs/
+*.h.in
+
+# Coverage files
+coverage_build/
+coverage_data/
+coverage_html/
+coverage.txt
+coverage.html
+coverage.*.html
+*.gcda
+*.gcno
+*.gcov
+*.info
+*.html
+*.css
+
+# Binaire
+/src/posix-shell
+
+# Autres
+*~
+*.swp
+.DS_Store
+TODO_*
+*.checks
+*.css
+*.txt
+.vscode/

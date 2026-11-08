@@ -1,0 +1,1 @@
+cd /tmp; echo $PWD | grep tmp

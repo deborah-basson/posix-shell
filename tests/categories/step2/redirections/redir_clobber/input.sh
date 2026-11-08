@@ -1,0 +1,1 @@
+echo test >| /tmp/test_clobber_posix-shell; rm /tmp/test_clobber_posix-shell

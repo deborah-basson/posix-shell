@@ -1,0 +1,6 @@
+list {
+  || {
+    command "echo" "a"
+    command "echo" "b"
+  }
+}

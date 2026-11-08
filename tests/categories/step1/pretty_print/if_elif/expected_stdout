@@ -1,0 +1,20 @@
+list {
+  if {
+    condition:
+      list {
+        command "false"
+      }
+    then:
+      list {
+        command "echo" "a"
+      }
+    elif:
+      list {
+        command "true"
+      }
+    then:
+      list {
+        command "echo" "b"
+      }
+  }
+}

@@ -1,0 +1,12 @@
+list {
+  until {
+    condition:
+      list {
+        command "true"
+      }
+    body:
+      list {
+        command "echo" "body"
+      }
+  }
+}
